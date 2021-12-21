@@ -1,0 +1,12 @@
+torch
+tqdm
+tensorboardX
+numpy
+scipy
+scikit-learn
+pandas
+geopandas
+rasterio
+shapely
+geopy
+geoplot
