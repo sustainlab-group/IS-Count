@@ -88,7 +88,13 @@ Please cite this article as follows, or use the BibTeX entry below.
 > citation
 
 ```tex
-@article{
-    TODO
+@inproceedings{meng2022count,
+  title={Is-count: Large-scale object counting from satellite images with covariate-based importance sampling},
+  author={Meng, Chenlin and Liu, Enci and Neiswanger, Willie and Song, Jiaming and Burke, Marshall and Lobell, David and Ermon, Stefano},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={11},
+  pages={12034--12042},
+  year={2022}
 }
 ```
