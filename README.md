@@ -85,8 +85,6 @@ To get results for the **Isotonic** method in the paper, run with the `--extra_t
 
 Please cite this article as follows, or use the BibTeX entry below.
 
-> citation
-
 ```tex
 @inproceedings{meng2022count,
   title={Is-count: Large-scale object counting from satellite images with covariate-based importance sampling},
